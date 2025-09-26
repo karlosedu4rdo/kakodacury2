@@ -627,7 +627,7 @@ ${message}`
                 </div>
                 <div>
                   <h3 className="text-xl font-bold text-gray-900 mb-2">
-                    Imóveis em Localizações Privilegiadas com Padrão Valor Real
+                    Imóveis em Localizações Privilegiadas com Padrão Cury
                   </h3>
                   <p className="text-gray-600 mb-3">Selecionamos os melhores imóveis em localização estratégica</p>
                   <ul className="space-y-1 text-sm text-gray-600">
@@ -661,7 +661,7 @@ ${message}`
             <div className="grid grid-cols-2 gap-2 md:gap-3 fade-up-on-scroll fade-up-delay-2">
               <img
                 src="/images/property-1.jpg"
-                alt="Empreendimento Valor Real"
+                alt="Empreendimento Cury"
                 className="w-full h-32 md:h-40 object-cover rounded-lg"
               />
               <img
@@ -686,7 +686,7 @@ ${message}`
             <div className="relative fade-up-on-scroll">
               <img
                 src="/images/cury-5anos.png"
-                alt="Profissional Valor Real"
+                alt="Profissional Cury"
                 className="w-full h-auto rounded-2xl shadow-2xl"
               />
               <div className="absolute -bottom-6 -right-6 bg-white p-4 rounded-xl shadow-lg">
@@ -728,7 +728,7 @@ ${message}`
 
               <Button
                 size="lg"
-                onClick={() => redirectToWhatsApp('Olá! Gostaria de conhecer mais sobre a história da Valor Real.')}
+                onClick={() => redirectToWhatsApp('Olá! Gostaria de conhecer mais sobre a história da Cury.')}
                 className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 text-lg font-semibold rounded-full cursor-pointer"
               >
                 Conheça Nossa História
@@ -758,7 +758,7 @@ ${message}`
                   ))}
                 </div>
                     <p className="text-gray-600 mb-4 leading-relaxed flex-grow text-sm md:text-base">
-                  "Sempre sonhei com a casa própria, mas achava impossível. A equipe da Valor Real me ajudou em todo o
+                  "Sempre sonhei com a casa própria, mas achava impossível. A equipe da Cury me ajudou em todo o
                   processo, desde a documentação até a entrega das chaves. Hoje moro no meu apartamento dos sonhos!"
                 </p>
                     <div className="flex items-center gap-3 mt-auto">
@@ -854,7 +854,7 @@ ${message}`
                       ))}
                     </div>
                     <p className="text-gray-600 mb-4 leading-relaxed flex-grow text-sm md:text-base">
-                      "Consegui financiar 100% do meu apartamento! A Valor Real me ajudou a encontrar a melhor 
+                      "Consegui financiar 100% do meu apartamento! A Cury me ajudou a encontrar a melhor 
                       condição possível. Estou muito feliz com o resultado e agradecido pela dedicação da equipe."
                     </p>
                     <div className="flex items-center gap-3 mt-auto">
