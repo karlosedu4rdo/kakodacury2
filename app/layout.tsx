@@ -5,9 +5,9 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Valor Real - Financiamento Habitacional Sem Complicações',
-  description: 'Conquiste o sonho da casa própria com a Valor Real. Financiamento habitacional facilitado, sem burocracia e com as melhores condições do mercado.',
-  generator: 'Valor Real',
+  title: 'Kako da Cury - Financiamento Habitacional Sem Complicações',
+  description: 'Conquiste o sonho da casa própria com a Cury. Financiamento habitacional facilitado, sem burocracia e com as melhores condições do mercado.',
+  generator: 'Kako da Cury',
 }
 
 export default function RootLayout({
